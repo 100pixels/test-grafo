@@ -3,8 +3,9 @@ package cenidet.cc.publictransit.web.grafo.test.excel;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import cenidet.cc.publictransit.dao.StopDAO;
-import cenidet.cc.publictransit.dto.Stop;
+import org.cenidet.cc.publictransit.dao.StopDAO;
+import org.cenidet.cc.publictransit.dto.Stop;
+
 import cenidet.cc.publictransit.web.grafo.test.manual.Parada;
 
 public class MainExcel {

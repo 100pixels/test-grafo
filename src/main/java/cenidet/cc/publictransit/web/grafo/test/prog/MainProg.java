@@ -3,8 +3,8 @@ package cenidet.cc.publictransit.web.grafo.test.prog;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import cenidet.cc.publictransit.dao.StopDAO;
-import cenidet.cc.publictransit.dto.Stop;
+import org.cenidet.cc.publictransit.dao.StopDAO;
+import org.cenidet.cc.publictransit.dto.Stop;
 
 public class MainProg {
 	
